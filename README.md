@@ -1,4 +1,4 @@
-![alt text](Compiled/VodkaProject (LOGO).png "LOGO")
+![alt text](Compiled/VodkaProject%20(LOGO).png "LOGO")
 
 # VodkaProject
 Fucking ideas from Russia with love &lt;3
